@@ -13,11 +13,12 @@
   </body>
   <script>
     var output = document.getElementById("output");
+    var yourOutput = document.getElementById("yourOutput");
     var input = document.getElementById("input");
     output.innerHTML = "Hello";
     
     function send() {
-      output.innerHTML = input.value;
+      yourOutput.innerHTML = input.value;
       input.value = "";
     }
   </script>
