@@ -8,10 +8,14 @@
     <br>
     <br>
     <input type="text" id="input">
-    <button>Send</button>
+    <button onclick="send()">Send</button>
   </body>
   <script>
     var output = document.getElementById("output");
     output.innerHTML = "Hello";
+    
+    function send() {
+      alert("sent");
+    }
   </script>
 </html>
