@@ -2,4 +2,4 @@
 
 A bot that copies everything you write :)
 
-https://zi-youtuber.github.io/chat-bot/
+https://zi-youtuber.github.io/Copy-Bot-Online/
